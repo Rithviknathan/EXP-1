@@ -1,3 +1,5 @@
+# NAME: RITHVIK S
+# REG NO: 212223100045
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
@@ -45,18 +47,23 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
+![KL](https://github.com/user-attachments/assets/c9640066-5252-4f2b-8d7a-406b6d54ecd7)
 
 
 b.  KCL:
- 
+ ![CL CD](https://github.com/user-attachments/assets/dd54eb40-6d29-4a97-be80-7ac9f1c95a75)
+
 
 Calculation:
 
 a.   KVL:
- 
+ ![VLC](https://github.com/user-attachments/assets/8e9db6a8-36d5-4515-8d7e-6a5f727806d2)
+
 
 
 b.  KCL:
+![CLC](https://github.com/user-attachments/assets/6e1d94cf-3670-438c-96d5-edf50afe3cc8)
+![CLC2](https://github.com/user-attachments/assets/4cf1c791-3b02-40b2-ae6c-5908ce793a2b)
 
 
 
@@ -64,10 +71,9 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ ![VLT](https://github.com/user-attachments/assets/7f35b075-e989-45d3-aa8f-023be88acfcf)
 
 
-b.  KCL:
 
 
 
